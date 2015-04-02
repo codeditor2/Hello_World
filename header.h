@@ -4,3 +4,6 @@
 
 int
 strlen(char *strings);
+
+int
+swap(int *, int *);
